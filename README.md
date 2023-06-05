@@ -1,1 +1,3 @@
-# .configs
+# .files
+
+some dot files
